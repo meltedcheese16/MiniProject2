@@ -1,7 +1,7 @@
 # MiniProject2
 
 
-![Uploading cesa minipro 2.drawio.png…]()
+![cesa minipro 2 drawio](https://github.com/user-attachments/assets/0e6b79aa-ad10-4ef9-91c4-ae93d8dac916)
 
 
 
