@@ -1,6 +1,16 @@
 # MiniProject2
 
 
+![Uploading cesa minipro 2.drawio.png…]()
+
+
+
+
+
+
+
+
+
 1. Import Library
    
    from prettytable import PrettyTable
